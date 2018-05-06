@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Test extension",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "This is test extension",
   "update_url": "https://raw.githubusercontent.com/kmikko/chrome-extension-test/master/updates.xml",
   "content_scripts": [

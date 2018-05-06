@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='https://www.google.com/update2/response' protocol='2.0'>
   <app appid='jbejmlkakmnppekjnhlojhngapcbghpk'>
+    <updatecheck codebase='https://github.com/kmikko/chrome-extension-test/releases/download/v1.1.1/cet_v1.1.1.crx' version='1.1.1' />
     <updatecheck codebase='https://github.com/kmikko/chrome-extension-test/releases/download/v1.1.0/cet_v1.1.0.crx' version='1.1.0' />
     <updatecheck codebase='https://github.com/kmikko/chrome-extension-test/releases/download/v1.0.1/cet_v1.0.1.crx' version='1.0.1' />
   </app>

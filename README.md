@@ -1,0 +1,1 @@
+Test updating of externally hosted Chrome extensions.
